@@ -1,5 +1,7 @@
 package cn.bw.hl;
-
+/**
+* this is my description at the remote
+*/
 public class BaWei {
 	
 	private String baWeiChairMan;
