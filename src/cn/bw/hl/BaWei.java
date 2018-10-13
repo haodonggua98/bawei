@@ -16,10 +16,10 @@ package cn.bw.hl;
 */
 
 /**
-* this is my description at the remote8848
-* I don't want to buy
+* this is my description at the remote8848 
+* welcome to buy!!!
+* OK, I'll buy it!!!
 */
-
 public class BaWei {
 	
 	private String baWeiChairMan;
