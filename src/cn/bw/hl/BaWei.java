@@ -15,6 +15,11 @@ package cn.bw.hl;
 * this is my description at the remote8848
 */
 
+/**
+* this is my description at the remote8848 
+* welcome to buy!!!
+*/
+
 public class BaWei {
 	
 	private String baWeiChairMan;
