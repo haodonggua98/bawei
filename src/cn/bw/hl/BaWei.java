@@ -7,10 +7,6 @@ package cn.bw.hl;
 * this is my description at the remote2
 */
 
-/**
- * this is my description at hte remote3
- */
-
 public class BaWei {
 	
 	private String baWeiChairMan;
