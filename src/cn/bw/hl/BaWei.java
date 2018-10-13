@@ -1,25 +1,9 @@
 package cn.bw.hl;
-/**
-* this is my description at the remote
-*/
-
-/**
-* this is my description at the remote2
-*/
 
 /**
 * this is my description at the remote888888888888888888888888
 */
 
-/**
-* this is my description at the remote8848
-*/
-
-/**
-* this is my description at the remote8848 
-* welcome to buy!!!
-* OK, I'll buy it!!!
-*/
 public class BaWei {
 	
 	private String baWeiChairMan;
